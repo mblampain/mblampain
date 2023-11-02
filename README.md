@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- French guy (oui oui baguette) 🥖🥐
+- Fullstack developer, specially on ReactJS and NodeJS ⚛️
+- I enjoy learning new things, no matter what the subject. 🎓
+- Open-minded, I like debate and challenging my knowledge. 🗞️
+- Linux daily user 🐧
+
+  
 <!--
 **mblampain/mblampain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
